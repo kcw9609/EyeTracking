@@ -13,7 +13,7 @@ from ultralytics import YOLO
 model = YOLO("yolov8n.pt")
 
 # 이미지 경로
-image_path = "../test-images/image-1.jpg"
+image_path = "../test-images/image-3.jpg"
 
 # 이미지 감지 (confidence threshold 낮춤)
 results = model(image_path, conf=0.1)

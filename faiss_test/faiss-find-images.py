@@ -28,7 +28,7 @@ def image_embedding(img_path: Path) -> np.ndarray:
     return emb.cpu().numpy().astype("float32")
 
 # 이미지 디렉토리 경로
-image_dir = Path("../test-images/")
+# image_dir = Path("../test-images/")
 
 # Faiss 인덱스 불러오기
 index = faiss.read_index("image_clip.index")

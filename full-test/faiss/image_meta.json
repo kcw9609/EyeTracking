@@ -1,0 +1,30 @@
+{
+  "ids": [
+    "image-1_crop0.jpg",
+    "image-1_crop1.jpg",
+    "image-3_crop0.jpg",
+    "image-3_crop1.jpg",
+    "image-3_crop2.jpg",
+    "image-3_crop3.jpg",
+    "image-3_crop4.jpg",
+    "image-3_crop5.jpg",
+    "image-3_crop6.jpg",
+    "image-3_crop7.jpg",
+    "image-2_crop0.jpg",
+    "image-2_crop1.jpg"
+  ],
+  "descriptions": [
+    "Auto-generated crop from image-1.jpg",
+    "Auto-generated crop from image-1.jpg",
+    "Auto-generated crop from image-3.jpg",
+    "Auto-generated crop from image-3.jpg",
+    "Auto-generated crop from image-3.jpg",
+    "Auto-generated crop from image-3.jpg",
+    "Auto-generated crop from image-3.jpg",
+    "Auto-generated crop from image-3.jpg",
+    "Auto-generated crop from image-3.jpg",
+    "Auto-generated crop from image-3.jpg",
+    "Auto-generated crop from image-2.jpg",
+    "Auto-generated crop from image-2.jpg"
+  ]
+}
